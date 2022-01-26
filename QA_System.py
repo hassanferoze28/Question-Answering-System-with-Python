@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-Team members: 1. Fangxin Zhang
-              2. Muhammad Hassan
-              3. Shirinithi Thiruppath
-              4. Tewodros TameneDescription:
+Author: Muhammad Hassan
 This notebook is an implementation of the QA-SYSTEM through Wikipedia in Python, Where user ask the question starting with WHO, WHEN, WHAT and Where. Its start with 
 This is a QA system. It will try to answer questions that start with Who, What, When or Where. Enter 'exit' to leave the program.
 
